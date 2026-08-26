@@ -1,1 +1,2 @@
-my first file
+this is my first file. which i uploaded to git hub
+
